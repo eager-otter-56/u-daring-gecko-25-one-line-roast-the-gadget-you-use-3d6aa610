@@ -4,8 +4,11 @@
 
 # One-Line Roast: The Gadget You Use Every Day
 
-Entry for the make.fun bounty "One-Line Roast: The Gadget You Use Every Day": a single original line (≤200 characters) roasting a gadget I use every day — my wireless earbuds, which die mid-sentence on the one word that mattered, then reconnect just in time for me to hear "Sorry — what was that?"
+A single-line roast of the phone I use every day: it flagged my own 03:12
+unlock as a suspicious sign-in, asked me to approve it from the phone I was
+locked out of, and I have failed my own identity check 38 times.
 
-`main.py` writes the entry text to `entry.txt` in `MAKEFUN_OUTPUT_DIR` (default `/output`).
+Running `main.py` writes the line to `entry.txt` in `MAKEFUN_OUTPUT_DIR`
+(default `/output`).
 
 Bounty: https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610
